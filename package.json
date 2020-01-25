@@ -1,0 +1,21 @@
+{
+  "name": "liste-rx-converter",
+  "version": "0.0.1",
+  "description": "Convertisseur du fichier validateur de la liste de médicament RAMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "liste-ramq-convert": "index.js"
+  },
+  "author": "Charles Dagenais",
+  "license": "ISC",
+  "dependencies": {
+    "args": "^5.0.1",
+    "dts-gen": "^0.6.0",
+    "positional-flat-file-to-json": "^1.1.0",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {}
+}
