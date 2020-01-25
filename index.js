@@ -4,7 +4,6 @@ const args = require('args')
 const toJsonFromFile = require("positional-flat-file-to-json").toJsonFromFile
 const fs = require('fs')
 
-
 args
   .options([
     {
@@ -85,6 +84,42 @@ fabriquant: {
     columnPosition: 291,
     size: 10
 },
+categorie_medicament: {
+    columnPosition: 301,
+    size: 3
+},
+nature_medicament: {
+    columnPosition: 304,
+    size: 3
+},
+indicateur_produit_unique: {
+    columnPosition: 307,
+    size:1
+},
+categorie_beneficiaire: {
+    columnPosition: 308,
+    size: 3
+},
+code_sexe: {
+    columnPosition: 311,
+    size: 1
+},
+code_programme: {
+    columnPosition: 312,
+    size: 40
+},
+pvg: {
+    columnPosition: 352,
+    size: 4
+},
+element_remplissage: {
+    columnPosition: 356,
+    size: 11
+},
+unite_des_formats: {
+    columnPosition: 367,
+    size: 2
+},
 };
 
 // Read a flat file from the file system and return a JavaScript object
@@ -99,8 +134,11 @@ toJsonFromFile(COL_FORMAT, flags.i).then(convertedJson => {
 // });
 
 writeToFile = function(jsObj,path){
+
+
+
     jsString = JSON.stringify(jsObj)
-    fs.writeFile(path,jsString,'ansi',function(err){
+    fs.writeFile(path,jsString,'latin1',function(err){
         if(err){
             console.log("erreur a l;<ecriture du fichier");
             return console.log(err);
