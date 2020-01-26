@@ -30,6 +30,74 @@ const COL_FORMAT = {
     classe_ahf_2: {
         columnPosition: 42,
         size: 6
-    }
-};
- module.exports.COL_FORMAT
+    },
+    code_denomination_commune:{
+      columnPosition:48,
+      size:5
+    },
+    code_forme: {
+      columnPosition: 53,
+      size: 5
+  },
+  code_teneur: {
+      columnPosition: 58,
+      size: 5
+  },
+  denomination_commune: {
+      columnPosition: 63,
+      size: 150
+  },
+  forme: {
+      columnPosition: 213,
+      size: 18
+  },
+  teneur: {
+      columnPosition: 231,
+      size: 36
+  },
+  marque_de_commerce: {
+      columnPosition: 267,
+      size: 24
+  },
+  fabriquant: {
+      columnPosition: 291,
+      size: 10
+  },
+  categorie_medicament: {
+      columnPosition: 301,
+      size: 3
+  },
+  nature_medicament: {
+      columnPosition: 304,
+      size: 3
+  },
+  indicateur_produit_unique: {
+      columnPosition: 307,
+      size:1
+  },
+  categorie_beneficiaire: {
+      columnPosition: 308,
+      size: 3
+  },
+  code_sexe: {
+      columnPosition: 311,
+      size: 1
+  },
+  code_programme: {
+      columnPosition: 312,
+      size: 40
+  },
+  pvg: {
+      columnPosition: 352,
+      size: 4
+  },
+  element_remplissage: {
+      columnPosition: 356,
+      size: 11
+  },
+  unite_des_formats: {
+      columnPosition: 367,
+      size: 2
+  },
+  };
+  module.exports.COL_FORMAT = COL_FORMAT;
