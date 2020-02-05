@@ -86,7 +86,7 @@ toJsonFromFile(COL_FORMAT, flags.i).then(convertedJson => {
         val.pvg = parseFloat(addDecimal(val.pvg,2))
     })
     // tempObject.groupe_formats
-    // console.log(tempArray[3972]);
+    // console.log(tempArray[2380]);
     writeToFile(convertedJson,flags.o)
 });
 
