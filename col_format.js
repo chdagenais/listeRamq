@@ -83,7 +83,7 @@ const COL_FORMAT = {
       columnPosition: 311,
       size: 1
   },
-  code_programme: {
+  codes_programmes: {
       columnPosition: 312,
       size: 40
   },
@@ -99,5 +99,58 @@ const COL_FORMAT = {
       columnPosition: 367,
       size: 2
   },
+  indicateur_format_DMEP: {
+    columnPosition: 369,
+    size: 1
+  },
+  groupe_formats: {
+    columnPosition: 370,
+    size: 300
+  },
   };
   module.exports.COL_FORMAT = COL_FORMAT;
+
+
+  const FORMAT_FORMAT = {
+    indicateur_format: {
+        columnPosition: 1,
+        size: 1
+    },
+    quantite_format: {
+        columnPosition: 2,
+        size: 5
+    },
+    prix_format: {
+        columnPosition: 7,
+        size: 7
+    },
+    prix_unitaire: {
+        columnPosition: 14,
+        size: 9
+    },
+    ppb_unitaire: {
+        columnPosition: 23,
+        size: 9
+    },
+    pmp_unitaire: {
+        columnPosition: 32,
+        size: 9
+    },
+    indicateur_indivisibilite: {
+        columnPosition: 41,
+        size: 1
+    },
+    statut_assurabilite: {
+        columnPosition: 42,
+        size: 2
+    },
+    raison_assurabilite: {
+        columnPosition: 44,
+        size: 2
+    },
+    marge_maximum_grossiste: {
+        columnPosition: 46,
+        size: 1
+    },
+  };
+  module.exports.FORMAT_FORMAT = FORMAT_FORMAT;
