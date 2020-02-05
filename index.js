@@ -62,7 +62,7 @@ const parseFormats = function(str){
     }
     arr.forEach((val,ind,arr)=>{
         const parsedLine = convertLine(FORMAT_FORMAT,val)
-        parsedLine.quantite_format = parseInt(parsedLine.quantite_format)
+        parsedLine.quantite_format = parseFloat(addDecimal(parsedLine.quantite_format,1))
         parsedLine.prix_format = parseFloat(addDecimal(parsedLine.prix_format,2))
         parsedLine.prix_unitaire = parseFloat(addDecimal(parsedLine.prix_unitaire,4))
         parsedLine.ppb_unitaire = parseFloat(addDecimal(parsedLine.ppb_unitaire,4))
