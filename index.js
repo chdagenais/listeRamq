@@ -5,6 +5,8 @@ const FORMAT_FORMAT = require('./col_format').FORMAT_FORMAT
 //const toJsonFromFile = require("positional-flat-file-to-json").toJsonFromFile
 const fs = require('fs')
 const readline=require('readline')
+const xml2js = require('xml2js');
+
 
 args
   .options([
@@ -20,9 +22,6 @@ args
 //   .command('serve', 'Serve your static site', ['s'])
 
 const flags = args.parse(process.argv)
-
-
-
 
 const toJsonFromFile = function(sourceFileConfig, sourceFilepath) {
 	return new Promise(function (resolve) {
@@ -48,7 +47,6 @@ const addDecimal =function(str,decimal){
     const output = str.substring(0,str.length-decimal)+"."+str.substring(str.length-decimal);
     return output
 }
-
 
 const parseFormats = function(str){
     let format = 1;
@@ -76,22 +74,7 @@ const parseFormats = function(str){
     return arr
 }
 
-
-// Read a flat file from the file system and return a JavaScript object
-toJsonFromFile(COL_FORMAT, flags.i).then(convertedJson => {
-//    console.log(convertedJson[10]);
-    const tempArray = convertedJson
-    tempArray.forEach((val)=>{
-        val.groupe_formats = parseFormats(val.groupe_formats)
-        val.pvg = parseFloat(addDecimal(val.pvg,2))
-    })
-    // tempObject.groupe_formats
-    // console.log(tempArray[2380]);
-    writeToFile(convertedJson,flags.o)
-});
-
-
-convertLine = function(sourceFileConfig, line) {
+const convertLine = function(sourceFileConfig, line) {
 	var convertedLine = {};
 
 	for (var col in sourceFileConfig) {
@@ -103,7 +86,7 @@ convertLine = function(sourceFileConfig, line) {
 	return convertedLine;
 }
 
-writeToFile = function(jsObj,path){
+const writeToFile = function(jsObj,path){
     jsString = JSON.stringify(jsObj)
     fs.writeFile(path,jsString,'utf8',function(err){
         if(err){
@@ -112,4 +95,32 @@ writeToFile = function(jsObj,path){
         }
         console.log("reussi!");
     })
+}
+
+
+// Read a flat file from the file system and return a JavaScript object
+if(flags.i.indexOf("ESR2_FIC_VAL")!== -1){
+
+    toJsonFromFile(COL_FORMAT, flags.i).then(convertedJson => {
+        //    console.log(convertedJson[10]);
+            const tempArray = convertedJson
+            tempArray.forEach((val)=>{
+                val.groupe_formats = parseFormats(val.groupe_formats)
+                val.pvg = parseFloat(addDecimal(val.pvg,2))
+            })
+            // tempObject.groupe_formats
+            // console.log(tempArray[2380]);
+            writeToFile(convertedJson,flags.o)
+        });
+}
+
+if(flags.i.indexOf("VAL_INDCN_THERA")!== -1){
+    var parser = new xml2js.Parser();
+    
+    fs.readFile(flags.i, function(err, data) {
+        parser.parseString(data, function (err, result) {
+            writeToFile(result.INDCN_THERA.OCC_INDCN_THERA,flags.o)
+            console.log('Done');
+        });
+    });
 }
