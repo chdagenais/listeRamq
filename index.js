@@ -99,7 +99,7 @@ const writeToFile = function(jsObj,path){
 
 
 // Read a flat file from the file system and return a JavaScript object
-if(flags.i.indexOf("ESR2_FIC_VAL")!== -1){
+if(flags.i.indexOf("ESR2_FIC")!== -1){
 
     toJsonFromFile(COL_FORMAT, flags.i).then(convertedJson => {
         //    console.log(convertedJson[10]);
