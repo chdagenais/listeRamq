@@ -1,3 +1,4 @@
 .DS_Store
 /node_modules
 liste_ramq.code-workspace
+package-lock.json
