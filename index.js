@@ -114,7 +114,7 @@ if(flags.i.indexOf("ESR2_FIC")!== -1){
         });
 }
 
-if(flags.i.indexOf("VAL_INDCN_THERA")!== -1){
+if(flags.i.indexOf("VAL_INDCN_THERA")!== -1  || flags.i.indexOf("ValIndcnThera") !== -1 ){
     var parser = new xml2js.Parser();
     
     fs.readFile(flags.i, function(err, data) {
