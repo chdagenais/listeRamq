@@ -22,15 +22,21 @@ jobs:
         node-version: 14.x
         cache: 'npm'
     - run: npm ci
+    - name: Set current date
+    - run: |
+          echo "Obtention de la date du jour pour le commit"
+          echo "CURRENT_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
     - name: Obtenir le nom du fichier .dat
       id: get_dat_file
       run: |
             echo "DAT_FILE_NAME=ESR2_FICHVALID.dat"
             echo "DAT_FILE_NAME=ESR2_FICHVALID.dat" >> $GITHUB_ENV
-    - run: node index.js -i ${{ env.DAT_FILE_NAME }} -o output/listeRamq.json
+    - name: Run the indes.js script to generate the listeRamq.json
+      run: node index.js -i ${{ env.DAT_FILE_NAME }} -o output/listeRamq.json
+    - name: Commit the changes
     - run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git commit -m "Workflow update liste Ramq"
+        git commit -m "Workflow update liste Ramq ${{ env.CURRENT_DATE}}"
         git push
