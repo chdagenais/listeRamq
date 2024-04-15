@@ -23,7 +23,7 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - name: Set current date
-    - run: |
+      run: |
           echo "Obtention de la date du jour pour le commit"
           echo "CURRENT_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
     - name: Obtenir le nom du fichier .dat
@@ -34,7 +34,7 @@ jobs:
     - name: Run the indes.js script to generate the listeRamq.json
       run: node index.js -i ${{ env.DAT_FILE_NAME }} -o output/listeRamq.json
     - name: Commit the changes
-    - run: |
+      run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
