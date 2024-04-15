@@ -30,6 +30,7 @@ jobs:
     - name: Obtenir le nom du fichier .dat
       id: get_dat_file
       run: |
+            echo "DAT_FILE_NAME=$(git diff --name-only ${{ github.sha }} | grep '\.dat$')"
             echo "DAT_FILE_NAME=$(git diff --name-only ${{ github.sha }} | grep '\.dat$')" >> $GITHUB_ENV
     - run: node index.js -i ${{ env.DAT_FILE_NAME }} -o output/listeRamq.json
     - run: |
