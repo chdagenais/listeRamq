@@ -1,0 +1,40 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+
+name: Node.js CI
+
+on:
+  push:
+    paths:
+      - "**.dat"
+  workflow_dispatch:
+    
+
+jobs:
+  generate_listeramq:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x, 16.x, 18.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js 14.x
+      uses: actions/setup-node@v3
+      with:
+        node-version: 14.x
+        cache: 'npm'
+    - run: npm ci
+    - name: Obtenir le nom du fichier .dat
+      id: get_dat_file
+      run: |
+            echo "DAT_FILE_NAME=$(git diff --name-only ${{ github.sha }} | grep '\.dat$')" >> $GITHUB_ENV
+    - run: node index.js -i ${{ env.DAT_FILE_NAME }} -o output/listeRamq.json
+    - run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Workflow update liste Ramq"
+        git push
