@@ -31,7 +31,7 @@ jobs:
       run: |
             echo "DAT_FILE_NAME=ESR2_FICHVALID.dat"
             echo "DAT_FILE_NAME=ESR2_FICHVALID.dat" >> $GITHUB_ENV
-    - name: Run the indes.js script to generate the listeRamq.json
+    - name: Run the index.js script to generate the listeRamq.json
       run: node index.js -i ${{ env.DAT_FILE_NAME }} -o output/listeRamq.json
     - name: Commit the changes
       run: |
