@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "args": "^5.0.1",
-    "dts-gen": "^0.6.0",
+    "dts-gen": "^0.10.3",
     "iconv": "^2.3.5",
     "positional-flat-file-to-json": "^1.1.0",
     "requirejs": "^2.3.6",
