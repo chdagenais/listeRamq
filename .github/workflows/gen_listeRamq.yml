@@ -21,7 +21,7 @@ jobs:
       with:
         node-version: 14.x
         cache: 'npm'
-    - run: npm ci
+    # - run: npm ci
     - name: Set current date
       run: |
           echo "Obtention de la date du jour pour le commit"
