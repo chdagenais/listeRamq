@@ -185,17 +185,6 @@ Pour le traitement des personnes souffrant des conditions suivantes :
  Plaie grave (affectant le tissu sous-cutané) causée par une maladie chronique ou par un cancer;
  Ulcère cutané grave (affectant le tissu sous-cutané) lié à une insuffisance artérielle ou veineuse;
  Plaie chronique (durée excédant 45 jours) et grave (affectant le tissu sous-cutané) dont le processus de cicatrisation est compromis; 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pansement absorbant - mousse hydrophile seule ou en association</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47781</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>DE101</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
-
-Pour le traitement des personnes souffrant des conditions suivantes :
-
-
- 
- Brûlures graves;
- Plaie de pression de stade 2 ou plus;
- Plaie grave (affectant le tissu sous-cutané) causée par une maladie chronique ou par un cancer;
- Ulcère cutané grave (affectant le tissu sous-cutané) lié à une insuffisance artérielle ou veineuse;
- Plaie chronique (durée excédant 45 jours) et grave (affectant le tissu sous-cutané) dont le processus de cicatrisation est compromis; 
  </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pansement absorbant - fibres gélifiantes</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47776</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>DE101</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
 
 Pour le traitement des personnes souffrant des conditions suivantes :
@@ -207,7 +196,7 @@ Pour le traitement des personnes souffrant des conditions suivantes :
  Plaie grave (affectant le tissu sous-cutané) causée par une maladie chronique ou par un cancer;
  Ulcère cutané grave (affectant le tissu sous-cutané) lié à une insuffisance artérielle ou veineuse;
  Plaie chronique (durée excédant 45 jours) et grave (affectant le tissu sous-cutané) dont le processus de cicatrisation est compromis; 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pansement absorbant bordé - fibres gélifiantes</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47777</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>DE101</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pansement absorbant - mousse hydrophile seule ou en association</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47781</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>DE101</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
 
 Pour le traitement des personnes souffrant des conditions suivantes :
 
@@ -218,7 +207,18 @@ Pour le traitement des personnes souffrant des conditions suivantes :
  Plaie grave (affectant le tissu sous-cutané) causée par une maladie chronique ou par un cancer;
  Ulcère cutané grave (affectant le tissu sous-cutané) lié à une insuffisance artérielle ou veineuse;
  Plaie chronique (durée excédant 45 jours) et grave (affectant le tissu sous-cutané) dont le processus de cicatrisation est compromis; 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pansement de rétention de l'humidité - hydrocolloïde ou polyuréthane</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47780</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>OP102</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pansement de rétention de l'humidité - hydrocolloïde ou polyuréthane</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47780</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>DE101</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
+
+Pour le traitement des personnes souffrant des conditions suivantes :
+
+
+ 
+ Brûlures graves;
+ Plaie de pression de stade 2 ou plus;
+ Plaie grave (affectant le tissu sous-cutané) causée par une maladie chronique ou par un cancer;
+ Ulcère cutané grave (affectant le tissu sous-cutané) lié à une insuffisance artérielle ou veineuse;
+ Plaie chronique (durée excédant 45 jours) et grave (affectant le tissu sous-cutané) dont le processus de cicatrisation est compromis; 
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pansement absorbant bordé - fibres gélifiantes</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47777</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>OP102</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
  Pour le traitement de la dégénérescence maculaire liée à l'âge avec néovascularisation chez les personnes présentant une atteinte de 50% ou plus de la surface maculaire; 
  
  Pour le traitement de la myopie pathologique avec néovascularisation;
@@ -250,21 +250,21 @@ Pour le traitement des personnes souffrant des conditions suivantes :
 
  
 
- Il est à noter que la prise concommitante de lanthane hydraté, d'oxyhydroxyde sucro-ferrique et de sévélamer ne fait pas partie de l'indication de paiement.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>sévélamer (carbonate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47859</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA109</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Comme chélateur du phosphate chez les personnes en insuffisance rénale grave, lorsqu'un sel de calcium est contre-indiqué, non toléré ou ne permet pas un contrôle optimal de l'hyperphosphatémie. 
-
- 
-
  Il est à noter que la prise concommitante de lanthane hydraté, d'oxyhydroxyde sucro-ferrique et de sévélamer ne fait pas partie de l'indication de paiement.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>lanthane hydraté (carbonate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48202</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA109</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Comme chélateur du phosphate chez les personnes en insuffisance rénale grave, lorsqu'un sel de calcium est contre-indiqué, non toléré ou ne permet pas un contrôle optimal de l'hyperphosphatémie. 
 
  
 
- Il est à noter que la prise concommitante de lanthane hydraté, d'oxyhydroxyde sucro-ferrique et de sévélamer ne fait pas partie de l'indication de paiement.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>oxyhydroxyde sucro-ferrique</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48273</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE112</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes présentant de la difficulté à utiliser un dispositif d’inhalation autre que le dispositif DiskusMC;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>salbutamol (sulfate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>33634</COD_DENOM_COMNE><NOM_FRAN_FORME>Poudre pour Inhalation</NOM_FRAN_FORME><COD_FORME_MED>5564</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE113</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes qui reçoivent déjà un autre médicament au moyen du dispositif DiskusMC;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>salbutamol (sulfate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>33634</COD_DENOM_COMNE><NOM_FRAN_FORME>Poudre pour Inhalation</NOM_FRAN_FORME><COD_FORME_MED>5564</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN116</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes atteintes de la maladie de Parkinson avec fluctuations motrices, malgré une dopathérapie;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>rasagiline (mésylate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47627</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN117</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 présentant une insuffisance rénale;
+ Il est à noter que la prise concommitante de lanthane hydraté, d'oxyhydroxyde sucro-ferrique et de sévélamer ne fait pas partie de l'indication de paiement.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>oxyhydroxyde sucro-ferrique</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48273</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA109</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Comme chélateur du phosphate chez les personnes en insuffisance rénale grave, lorsqu'un sel de calcium est contre-indiqué, non toléré ou ne permet pas un contrôle optimal de l'hyperphosphatémie. 
+
+ 
+
+ Il est à noter que la prise concommitante de lanthane hydraté, d'oxyhydroxyde sucro-ferrique et de sévélamer ne fait pas partie de l'indication de paiement.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>sévélamer (carbonate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47859</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE112</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes présentant de la difficulté à utiliser un dispositif d’inhalation autre que le dispositif DiskusMC;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>salbutamol (sulfate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>33634</COD_DENOM_COMNE><NOM_FRAN_FORME>Poudre pour Inhalation</NOM_FRAN_FORME><COD_FORME_MED>5564</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE113</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes qui reçoivent déjà un autre médicament au moyen du dispositif DiskusMC;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>salbutamol (sulfate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>33634</COD_DENOM_COMNE><NOM_FRAN_FORME>Poudre pour Inhalation</NOM_FRAN_FORME><COD_FORME_MED>5564</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN116</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes atteintes de la maladie de Parkinson avec fluctuations motrices, malgré une dopathérapie;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>rasagiline (mésylate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47627</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN117</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 présentant une insuffisance rénale;
 
 À titre informatif, l'association de la pioglitazone et de l'insuline de même que l'association de la rosiglitazone et de l'insuline augmentent le risque d'insuffisance cardiaque congestive. 
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>rosiglitazone (maléate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47371</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN117</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 présentant une insuffisance rénale;
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pioglitazone (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47392</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN117</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 présentant une insuffisance rénale;
 
 À titre informatif, l'association de la pioglitazone et de l'insuline de même que l'association de la rosiglitazone et de l'insuline augmentent le risque d'insuffisance cardiaque congestive. 
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pioglitazone (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47392</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN118</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2, en association avec la metformine, lorsqu'une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>rosiglitazone (maléate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47371</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN118</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2, en association avec la metformine, lorsqu'une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
 
  
 
@@ -272,7 +272,7 @@ Pour le traitement des personnes souffrant des conditions suivantes :
 
  
 
- À titre informatif, l'association de la pioglitazone et de l'insuline de même que l'association de la rosiglitazone et de l'insuline augmentent le risque d'insuffisance cardiaque congestive.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pioglitazone (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47392</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN118</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2, en association avec la metformine, lorsqu'une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
+ À titre informatif, l'association de la pioglitazone et de l'insuline de même que l'association de la rosiglitazone et de l'insuline augmentent le risque d'insuffisance cardiaque congestive.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>rosiglitazone (maléate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47371</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN118</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2, en association avec la metformine, lorsqu'une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
 
  
 
@@ -280,7 +280,7 @@ Pour le traitement des personnes souffrant des conditions suivantes :
 
  
 
- À titre informatif, l'association de la pioglitazone et de l'insuline de même que l'association de la rosiglitazone et de l'insuline augmentent le risque d'insuffisance cardiaque congestive.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>rosiglitazone (maléate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47371</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN119</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2, en association avec une sulfonylurée, lorsque la metformine est contre-indiquée, non tolérée ou inefficace;
+ À titre informatif, l'association de la pioglitazone et de l'insuline de même que l'association de la rosiglitazone et de l'insuline augmentent le risque d'insuffisance cardiaque congestive.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pioglitazone (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47392</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN119</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2, en association avec une sulfonylurée, lorsque la metformine est contre-indiquée, non tolérée ou inefficace;
 
  
 
@@ -305,10 +305,10 @@ Pour le traitement des personnes souffrant des conditions suivantes :
 </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>rosiglitazone (maléate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47371</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN121</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 lorsque la metformine et une sulfonylurée ne peuvent être utilisées en raison de contre-indication ou d'intolérance à ces agents;
 
 À titre informatif, l'association de la pioglitazone et de l'insuline de même que l'association de la rosiglitazone et de l'insuline augmentent le risque d'insuffisance cardiaque congestive. 
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pioglitazone (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47392</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN121</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 lorsque la metformine et une sulfonylurée ne peuvent être utilisées en raison de contre-indication ou d'intolérance à ces agents;
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>rosiglitazone (maléate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47371</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN121</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 lorsque la metformine et une sulfonylurée ne peuvent être utilisées en raison de contre-indication ou d'intolérance à ces agents;
 
 À titre informatif, l'association de la pioglitazone et de l'insuline de même que l'association de la rosiglitazone et de l'insuline augmentent le risque d'insuffisance cardiaque congestive. 
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>rosiglitazone (maléate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47371</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>AI125</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement de l'hépatite B chronique chez les personnes :
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pioglitazone (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47392</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>AI125</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement de l'hépatite B chronique chez les personnes :
 
  
  ayant une résistance à la lamivudine définie par un des éléments suivants :
@@ -324,42 +324,11 @@ Pour le traitement des personnes souffrant des conditions suivantes :
  
  ne présentant pas de résistance à la lamivudine et ayant une charge virale supérieure à 20 000 UI/mL (HBeAg-positif) ou à 2 000 UI/mL (HBeAg-négatif), avant le début du traitement;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>adéfovir dipivoxil</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47607</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>DE128</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement du psoriasis en plaques chez les personnes dont le contrôle de la maladie est insuffisant malgré l’utilisation d’un analogue de la vitamine D ou d’un corticostéroïde topique de puissance moyenne ou élevée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>halobétasol (proprionate d')/tazarotène</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>33</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2023-12-13</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>DE128</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement du psoriasis en plaques chez les personnes dont le contrôle de la maladie est insuffisant malgré l’utilisation d’un analogue de la vitamine D ou d’un corticostéroïde topique de puissance moyenne ou élevée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcipotriol/ bétaméthasone (dipropionate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>46811</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE131</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes souffrant de fibrose kystique; 
 
+Note : Les diagnostics ou les justifications liés à l’utilisation de ce produit pour prévenir ou traiter des carences vitaminiques associées à une maladie autre que la fibrose kystique, ou encore pour servir de supplément alimentaire, ne satisfont pas à l’indication de paiement.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>multivitamines</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47242</COD_DENOM_COMNE><NOM_FRAN_FORME>Comprimé</NOM_FRAN_FORME><COD_FORME_MED>203</COD_FORME_MED><NOM_FRAN_TENR>Vit A 4000 UI - Bêta-carotène 3 mg - Vit D 400 UI et autres</NOM_FRAN_TENR><COD_TENR_MED>97859</COD_TENR_MED><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE131</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes souffrant de fibrose kystique; 
+
 Note : Les diagnostics ou les justifications liés à l’utilisation de ce produit pour prévenir ou traiter des carences vitaminiques associées à une maladie autre que la fibrose kystique, ou encore pour servir de supplément alimentaire, ne satisfont pas à l’indication de paiement.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>multivitamines</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47242</COD_DENOM_COMNE><NOM_FRAN_FORME>Capsule ou Comprimé</NOM_FRAN_FORME><COD_FORME_MED>4959</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE131</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes souffrant de fibrose kystique; 
 
-Note : Les diagnostics ou les justifications liés à l’utilisation de ce produit pour prévenir ou traiter des carences vitaminiques associées à une maladie autre que la fibrose kystique, ou encore pour servir de supplément alimentaire, ne satisfont pas à l’indication de paiement.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>multivitamines</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47242</COD_DENOM_COMNE><NOM_FRAN_FORME>Comprimé à croquer</NOM_FRAN_FORME><COD_FORME_MED>464</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE131</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes souffrant de fibrose kystique; 
-
-Note : Les diagnostics ou les justifications liés à l’utilisation de ce produit pour prévenir ou traiter des carences vitaminiques associées à une maladie autre que la fibrose kystique, ou encore pour servir de supplément alimentaire, ne satisfont pas à l’indication de paiement.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>multivitamines</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47242</COD_DENOM_COMNE><NOM_FRAN_FORME>Comprimé</NOM_FRAN_FORME><COD_FORME_MED>203</COD_FORME_MED><NOM_FRAN_TENR>Vit A 4000 UI - Bêta-carotène 3 mg - Vit D 400 UI et autres</NOM_FRAN_TENR><COD_TENR_MED>97859</COD_TENR_MED><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN133</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes ayant présenté une première poussée clinique aiguë de démyélinisation documentée;
-
- 
- Le médecin doit fournir, au début du traitement, les résultats d’une résonance magnétique démontrant :
- 
- la présence d’au moins 1 lesion hyperintense en T2 non symptomatique touchant au moins 2 des 4 régions suivantes : périventriculaire, juxtacorticale, infratentorielle ou moelle épinière
- 
- 
- et
- 
- le diamètre de ces lésions est de 3 mm ou plus.
- 
- 
- La durée maximale de l’autorisation initale est d’un an. Lors de demandes subséquentes, le médecin doit fournir la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
-
- 
- Les posologies autorisées sont les suivantes :
- 
- 30 mcg une fois par semaine pour AvonexMC ;
- 
- 8 MUI aux deux jours pour le BetaseronMC et ExtaviaMC.
- 
- 
- 
- 
- 
- 
- Toutefois, AvonexMC, BetaseronMC et ExtaviaMC demeurent couverts par le régime général d’assurance médicaments pour les personnes assurées ayant utilisé un de ces médicaments au cours des 3 mois précédant le 2 juin 2014 en autant que le médecin fournisse la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
- 
- 
- 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>interféron bêta-1B</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47185</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN133</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes ayant présenté une première poussée clinique aiguë de démyélinisation documentée;
+Note : Les diagnostics ou les justifications liés à l’utilisation de ce produit pour prévenir ou traiter des carences vitaminiques associées à une maladie autre que la fibrose kystique, ou encore pour servir de supplément alimentaire, ne satisfont pas à l’indication de paiement.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>multivitamines</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47242</COD_DENOM_COMNE><NOM_FRAN_FORME>Comprimé à croquer</NOM_FRAN_FORME><COD_FORME_MED>464</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN133</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes ayant présenté une première poussée clinique aiguë de démyélinisation documentée;
 
  
  Le médecin doit fournir, au début du traitement, les résultats d’une résonance magnétique démontrant :
@@ -452,61 +421,38 @@ Note : Les diagnostics ou les justifications liés à l’utilisation de ce prod
  
  
  
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>interféron bêta-1B</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47185</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN133</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes ayant présenté une première poussée clinique aiguë de démyélinisation documentée;
+
+ 
+ Le médecin doit fournir, au début du traitement, les résultats d’une résonance magnétique démontrant :
+ 
+ la présence d’au moins 1 lesion hyperintense en T2 non symptomatique touchant au moins 2 des 4 régions suivantes : périventriculaire, juxtacorticale, infratentorielle ou moelle épinière
+ 
+ 
+ et
+ 
+ le diamètre de ces lésions est de 3 mm ou plus.
+ 
+ 
+ La durée maximale de l’autorisation initale est d’un an. Lors de demandes subséquentes, le médecin doit fournir la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
+
+ 
+ Les posologies autorisées sont les suivantes :
+ 
+ 30 mcg une fois par semaine pour AvonexMC ;
+ 
+ 8 MUI aux deux jours pour le BetaseronMC et ExtaviaMC.
+ 
+ 
+ 
+ 
+ 
+ 
+ Toutefois, AvonexMC, BetaseronMC et ExtaviaMC demeurent couverts par le régime général d’assurance médicaments pour les personnes assurées ayant utilisé un de ces médicaments au cours des 3 mois précédant le 2 juin 2014 en autant que le médecin fournisse la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
+ 
+ 
+ 
  </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>interféron bêta-1A</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47280</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution Injectable I.M.</NOM_FRAN_FORME><COD_FORME_MED>2088</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN134</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques de forme rémittente ayant présenté 1 poussée dans la dernière année et dont le résultat sur l’échelle EDSS est inférieur à 7.
-
- 
-
- Sont également admissibles à un remboursement les personnes qui n'ont pas présenté de poussée dans la dernière année alors qu'elles recevaient un autre médicament pour traiter la sclérose en plaques de forme rémittente, mais qui ont dû cesser la prise de ce médicament pour une raison clinique. 
-
- 
-
- L’autorisation de la demande initiale est d’une durée maximale d’un an. Il en ira de même pour les demandes concernant la poursuite du traitement. Cependant, dans ces derniers cas, le médecin doit fournir la preuve d’un effet bénéfique par l’absence de détérioration. Le résultat sur l’échelle EDSS doit demeurer inférieur à 7.
-
- 
-
- 
- 
- 
- Toutefois, AvonexMC, BetaseronMC et ExtaviaMC demeurent couverts par le Régime général d’assurance médicaments pour les personnes assurées ayant utilisé ce médicament au cours des 3 mois précédant le 2 juin 2014 pourvu que le médecin fournisse la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
- 
- 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>interféron bêta-1B</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47185</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN134</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques de forme rémittente ayant présenté 1 poussée dans la dernière année et dont le résultat sur l’échelle EDSS est inférieur à 7.
-
- 
-
- Sont également admissibles à un remboursement les personnes qui n'ont pas présenté de poussée dans la dernière année alors qu'elles recevaient un autre médicament pour traiter la sclérose en plaques de forme rémittente, mais qui ont dû cesser la prise de ce médicament pour une raison clinique. 
-
- 
-
- L’autorisation de la demande initiale est d’une durée maximale d’un an. Il en ira de même pour les demandes concernant la poursuite du traitement. Cependant, dans ces derniers cas, le médecin doit fournir la preuve d’un effet bénéfique par l’absence de détérioration. Le résultat sur l’échelle EDSS doit demeurer inférieur à 7.
-
- 
-
- 
- 
- 
- Toutefois, AvonexMC, BetaseronMC et ExtaviaMC demeurent couverts par le Régime général d’assurance médicaments pour les personnes assurées ayant utilisé ce médicament au cours des 3 mois précédant le 2 juin 2014 pourvu que le médecin fournisse la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
- 
- 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>interféron bêta-1A</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47280</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN134</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques de forme rémittente ayant présenté 1 poussée dans la dernière année et dont le résultat sur l’échelle EDSS est inférieur à 7.
-
- 
-
- Sont également admissibles à un remboursement les personnes qui n'ont pas présenté de poussée dans la dernière année alors qu'elles recevaient un autre médicament pour traiter la sclérose en plaques de forme rémittente, mais qui ont dû cesser la prise de ce médicament pour une raison clinique. 
-
- 
-
- L’autorisation de la demande initiale est d’une durée maximale d’un an. Il en ira de même pour les demandes concernant la poursuite du traitement. Cependant, dans ces derniers cas, le médecin doit fournir la preuve d’un effet bénéfique par l’absence de détérioration. Le résultat sur l’échelle EDSS doit demeurer inférieur à 7.
-
- 
-
- 
- 
- 
- Toutefois, AvonexMC, BetaseronMC et ExtaviaMC demeurent couverts par le Régime général d’assurance médicaments pour les personnes assurées ayant utilisé ce médicament au cours des 3 mois précédant le 2 juin 2014 pourvu que le médecin fournisse la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
- 
- 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>tériflunomide</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47989</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN134</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques de forme rémittente ayant présenté 1 poussée dans la dernière année et dont le résultat sur l’échelle EDSS est inférieur à 7.
 
  
 
@@ -542,7 +488,7 @@ Note : Les diagnostics ou les justifications liés à l’utilisation de ce prod
  Toutefois, AvonexMC, BetaseronMC et ExtaviaMC demeurent couverts par le Régime général d’assurance médicaments pour les personnes assurées ayant utilisé ce médicament au cours des 3 mois précédant le 2 juin 2014 pourvu que le médecin fournisse la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
  
  
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>glatiramère (acétate de) -  (GLATECT)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48210</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN134</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques de forme rémittente ayant présenté 1 poussée dans la dernière année et dont le résultat sur l’échelle EDSS est inférieur à 7.
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>ofatumumab</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>51</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2022-04-13</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN134</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques de forme rémittente ayant présenté 1 poussée dans la dernière année et dont le résultat sur l’échelle EDSS est inférieur à 7.
 
  
 
@@ -578,7 +524,7 @@ Note : Les diagnostics ou les justifications liés à l’utilisation de ce prod
  Toutefois, AvonexMC, BetaseronMC et ExtaviaMC demeurent couverts par le Régime général d’assurance médicaments pour les personnes assurées ayant utilisé ce médicament au cours des 3 mois précédant le 2 juin 2014 pourvu que le médecin fournisse la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
  
  
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>ofatumumab</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>51</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2022-04-13</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN134</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques de forme rémittente ayant présenté 1 poussée dans la dernière année et dont le résultat sur l’échelle EDSS est inférieur à 7.
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>glatiramère (acétate de) -  (GLATECT)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48210</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN134</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques de forme rémittente ayant présenté 1 poussée dans la dernière année et dont le résultat sur l’échelle EDSS est inférieur à 7.
 
  
 
@@ -596,7 +542,61 @@ Note : Les diagnostics ou les justifications liés à l’utilisation de ce prod
  Toutefois, AvonexMC, BetaseronMC et ExtaviaMC demeurent couverts par le Régime général d’assurance médicaments pour les personnes assurées ayant utilisé ce médicament au cours des 3 mois précédant le 2 juin 2014 pourvu que le médecin fournisse la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
  
  
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>diméthyle (fumarate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47954</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN135</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques progressive secondaire, dont le résultat sur l'échelle EDSS est inférieur à 7.
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>diméthyle (fumarate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47954</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN134</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques de forme rémittente ayant présenté 1 poussée dans la dernière année et dont le résultat sur l’échelle EDSS est inférieur à 7.
+
+ 
+
+ Sont également admissibles à un remboursement les personnes qui n'ont pas présenté de poussée dans la dernière année alors qu'elles recevaient un autre médicament pour traiter la sclérose en plaques de forme rémittente, mais qui ont dû cesser la prise de ce médicament pour une raison clinique. 
+
+ 
+
+ L’autorisation de la demande initiale est d’une durée maximale d’un an. Il en ira de même pour les demandes concernant la poursuite du traitement. Cependant, dans ces derniers cas, le médecin doit fournir la preuve d’un effet bénéfique par l’absence de détérioration. Le résultat sur l’échelle EDSS doit demeurer inférieur à 7.
+
+ 
+
+ 
+ 
+ 
+ Toutefois, AvonexMC, BetaseronMC et ExtaviaMC demeurent couverts par le Régime général d’assurance médicaments pour les personnes assurées ayant utilisé ce médicament au cours des 3 mois précédant le 2 juin 2014 pourvu que le médecin fournisse la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
+ 
+ 
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>tériflunomide</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47989</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN134</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques de forme rémittente ayant présenté 1 poussée dans la dernière année et dont le résultat sur l’échelle EDSS est inférieur à 7.
+
+ 
+
+ Sont également admissibles à un remboursement les personnes qui n'ont pas présenté de poussée dans la dernière année alors qu'elles recevaient un autre médicament pour traiter la sclérose en plaques de forme rémittente, mais qui ont dû cesser la prise de ce médicament pour une raison clinique. 
+
+ 
+
+ L’autorisation de la demande initiale est d’une durée maximale d’un an. Il en ira de même pour les demandes concernant la poursuite du traitement. Cependant, dans ces derniers cas, le médecin doit fournir la preuve d’un effet bénéfique par l’absence de détérioration. Le résultat sur l’échelle EDSS doit demeurer inférieur à 7.
+
+ 
+
+ 
+ 
+ 
+ Toutefois, AvonexMC, BetaseronMC et ExtaviaMC demeurent couverts par le Régime général d’assurance médicaments pour les personnes assurées ayant utilisé ce médicament au cours des 3 mois précédant le 2 juin 2014 pourvu que le médecin fournisse la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
+ 
+ 
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>interféron bêta-1A</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47280</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN134</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques de forme rémittente ayant présenté 1 poussée dans la dernière année et dont le résultat sur l’échelle EDSS est inférieur à 7.
+
+ 
+
+ Sont également admissibles à un remboursement les personnes qui n'ont pas présenté de poussée dans la dernière année alors qu'elles recevaient un autre médicament pour traiter la sclérose en plaques de forme rémittente, mais qui ont dû cesser la prise de ce médicament pour une raison clinique. 
+
+ 
+
+ L’autorisation de la demande initiale est d’une durée maximale d’un an. Il en ira de même pour les demandes concernant la poursuite du traitement. Cependant, dans ces derniers cas, le médecin doit fournir la preuve d’un effet bénéfique par l’absence de détérioration. Le résultat sur l’échelle EDSS doit demeurer inférieur à 7.
+
+ 
+
+ 
+ 
+ 
+ Toutefois, AvonexMC, BetaseronMC et ExtaviaMC demeurent couverts par le Régime général d’assurance médicaments pour les personnes assurées ayant utilisé ce médicament au cours des 3 mois précédant le 2 juin 2014 pourvu que le médecin fournisse la preuve d’un effet bénéfique par l’absence de nouvelle poussée clinique.
+ 
+ 
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>interféron bêta-1B</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47185</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN135</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques progressive secondaire, dont le résultat sur l'échelle EDSS est inférieur à 7.
 
 Les personnes qui commencent un traitement avec l’AvonexMC doivent présenter une sclérose en plaques progressive secondaire avec poussées cliniques.
 
@@ -616,7 +616,7 @@ Les posologies autorisées sont les suivantes :
 
 Période d’autorisation : 12 mois 
 
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>interféron bêta-1A</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47280</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN135</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques progressive secondaire, dont le résultat sur l'échelle EDSS est inférieur à 7.
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>interféron bêta-1B</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47185</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN135</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes souffrant de sclérose en plaques progressive secondaire, dont le résultat sur l'échelle EDSS est inférieur à 7.
 
 Les personnes qui commencent un traitement avec l’AvonexMC doivent présenter une sclérose en plaques progressive secondaire avec poussées cliniques.
 
@@ -636,7 +636,7 @@ Les posologies autorisées sont les suivantes :
 
 Période d’autorisation : 12 mois 
 
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>interféron bêta-1B</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47185</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA136</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>interféron bêta-1A</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47280</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA136</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
 
 Pour les nourrissons ou les enfants souffrant de l’un ou l’autre des problèmes suivants :
 
@@ -661,7 +661,7 @@ Pour les nourrissons ou les enfants souffrant de l’un ou l’autre des problè
 
  
 
- Période d'autorisation : 12 mois</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>formule nutritive - monomérique avec fer (nourrissons ou enfants)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47330</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (carbonate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>1664</COD_DENOM_COMNE><NOM_FRAN_FORME>Mousse orale</NOM_FRAN_FORME><COD_FORME_MED>5704</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (citrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>46523</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution Orale</NOM_FRAN_FORME><COD_FORME_MED>2262</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (citrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>46523</COD_DENOM_COMNE><NOM_FRAN_FORME>Poudre Orale</NOM_FRAN_FORME><COD_FORME_MED>1508</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2022-07-06</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (gluconate de)/calcium (lactate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47790</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (citrate de)/ vitamine D</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>46666</COD_DENOM_COMNE><NOM_FRAN_FORME>Poudre Orale</NOM_FRAN_FORME><COD_FORME_MED>1508</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2022-07-06</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (gluconate de)/calcium (lactate de)/vitamine D</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47851</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (citrate de)/ vitamine D</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>46666</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution Orale</NOM_FRAN_FORME><COD_FORME_MED>2262</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN148</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en association avec la metformine, lorsqu’une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
+ Période d'autorisation : 12 mois</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>formule nutritive - monomérique avec fer (nourrissons ou enfants)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47330</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (citrate de)/ vitamine D</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>46666</COD_DENOM_COMNE><NOM_FRAN_FORME>Poudre Orale</NOM_FRAN_FORME><COD_FORME_MED>1508</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2022-07-06</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (gluconate de)/calcium (lactate de)/vitamine D</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47851</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (citrate de)/ vitamine D</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>46666</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution Orale</NOM_FRAN_FORME><COD_FORME_MED>2262</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (citrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>46523</COD_DENOM_COMNE><NOM_FRAN_FORME>Poudre Orale</NOM_FRAN_FORME><COD_FORME_MED>1508</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2022-07-06</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (gluconate de)/calcium (lactate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47790</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (carbonate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>1664</COD_DENOM_COMNE><NOM_FRAN_FORME>Mousse orale</NOM_FRAN_FORME><COD_FORME_MED>5704</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA138</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes qui ne peuvent recevoir des comprimés;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>calcium (citrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>46523</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution Orale</NOM_FRAN_FORME><COD_FORME_MED>2262</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2019-06-19</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN148</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en association avec la metformine, lorsqu’une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
 
  
 
@@ -677,7 +677,7 @@ Pour les nourrissons ou les enfants souffrant de l’un ou l’autre des problè
 
  
 
- Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dapagliflozine (Mantra)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>189</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2023-08-16</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN148</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en association avec la metformine, lorsqu’une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
+ Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dapagliflozine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48039</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN148</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en association avec la metformine, lorsqu’une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
 
  
 
@@ -693,12 +693,7 @@ Pour les nourrissons ou les enfants souffrant de l’un ou l’autre des problè
 
  
 
- Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dapagliflozine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48039</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN149</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en association avec une sulfonylurée, lorsque la metformine est contre-indiquée, non tolérée ou inefficace;
-
- 
-
- Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient.
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>canagliflozine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48013</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN149</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en association avec une sulfonylurée, lorsque la metformine est contre-indiquée, non tolérée ou inefficace;
+ Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dapagliflozine (Mantra)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>189</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2023-08-16</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN149</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en association avec une sulfonylurée, lorsque la metformine est contre-indiquée, non tolérée ou inefficace;
 
  
 
@@ -708,7 +703,12 @@ Pour les nourrissons ou les enfants souffrant de l’un ou l’autre des problè
  
 
  Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient.
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dapagliflozine (Mantra)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>189</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2023-08-16</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN149</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en association avec une sulfonylurée, lorsque la metformine est contre-indiquée, non tolérée ou inefficace;
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>canagliflozine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48013</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN149</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en association avec une sulfonylurée, lorsque la metformine est contre-indiquée, non tolérée ou inefficace;
+
+ 
+
+ Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient.
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dapagliflozine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48039</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN149</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en association avec une sulfonylurée, lorsque la metformine est contre-indiquée, non tolérée ou inefficace;
 
  
 
@@ -718,46 +718,7 @@ Pour les nourrissons ou les enfants souffrant de l’un ou l’autre des problè
  
 
  Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient.
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dapagliflozine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48039</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN150</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 :
-
- 
-
- 
- lorsqu’une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
- et
- lorsque la dose maximale optimale de metformine est stable depuis au moins un mois; 
- 
- 
-
-Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient. 
-
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>saxagliptine/metformine (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47964</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN150</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 :
-
- 
-
- 
- lorsqu’une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
- et
- lorsque la dose maximale optimale de metformine est stable depuis au moins un mois; 
- 
- 
-
-Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient. 
-
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>linagliptine/metformine (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47965</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN150</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 :
-
- 
-
- 
- lorsqu’une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
- et
- lorsque la dose maximale optimale de metformine est stable depuis au moins un mois; 
- 
- 
-
-Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient. 
-
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dapagliflozine/metformine (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48117</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN150</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 :
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dapagliflozine (Mantra)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>189</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2023-08-16</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN150</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 :
 
  
 
@@ -783,7 +744,46 @@ Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyq
 
 Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient. 
 
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>alogliptine (benzoate d')/ metformine (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48017</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>CV152</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la prévention des manifestations vasculaires ischémiques, en association avec l'acide acétylsalicylique, chez les personnes pour lesquelles une angioplastie percutanée coronarienne a été effectuée lors d’un syndrome coronarien aigu.
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>alogliptine (benzoate d')/ metformine (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48017</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN150</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 :
+
+ 
+
+ 
+ lorsqu’une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
+ et
+ lorsque la dose maximale optimale de metformine est stable depuis au moins un mois; 
+ 
+ 
+
+Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient. 
+
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>linagliptine/metformine (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47965</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN150</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 :
+
+ 
+
+ 
+ lorsqu’une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
+ et
+ lorsque la dose maximale optimale de metformine est stable depuis au moins un mois; 
+ 
+ 
+
+Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient. 
+
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>saxagliptine/metformine (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47964</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN150</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 :
+
+ 
+
+ 
+ lorsqu’une sulfonylurée est contre-indiquée, non tolérée ou inefficace;
+ et
+ lorsque la dose maximale optimale de metformine est stable depuis au moins un mois; 
+ 
+ 
+
+Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyquée (HbA1c) adaptée au patient. 
+
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dapagliflozine/metformine (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48117</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>CV152</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la prévention des manifestations vasculaires ischémiques, en association avec l'acide acétylsalicylique, chez les personnes pour lesquelles une angioplastie percutanée coronarienne a été effectuée lors d’un syndrome coronarien aigu.
 
  
 
@@ -800,7 +800,7 @@ Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyq
 
  
 
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>denosumab</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47842</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution injectable S.C. (seringue)</NOM_FRAN_FORME><COD_FORME_MED>5618</COD_FORME_MED><NOM_FRAN_TENR>60 mg/mL</NOM_FRAN_TENR><COD_TENR_MED>38430</COD_TENR_MED><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>MS153</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>zolédronique (acide)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47386</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution pour Perfusion I.V.</NOM_FRAN_FORME><COD_FORME_MED>4147</COD_FORME_MED><NOM_FRAN_TENR>5 mg/ 100 mL</NOM_FRAN_TENR><COD_TENR_MED>97869</COD_TENR_MED><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>MS153</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
  Pour le traitement de l’ostéoporose postménopausique chez les femmes ne pouvant recevoir un bisphosphonate oral en raison d’une intolérance sérieuse ou d’une contre-indication.
  
  Note : Le traitement de l’ostéoporose chez l’homme ou le traitement de l’ostéoporose chez la femme ayant présenté un échec thérapeutique à un bisphosphonate oral ne satisfait pas à cette indication de paiement.  
@@ -809,29 +809,8 @@ Par inefficacité, on entend une non-atteinte de la valeur d’hémoglobine glyq
 
  
 
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>zolédronique (acide)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47386</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution pour Perfusion I.V.</NOM_FRAN_FORME><COD_FORME_MED>4147</COD_FORME_MED><NOM_FRAN_TENR>5 mg/ 100 mL</NOM_FRAN_TENR><COD_TENR_MED>97869</COD_TENR_MED><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>MS154</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
- Pour le traitement de la maladie de Paget.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>zolédronique (acide)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47386</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution pour Perfusion I.V.</NOM_FRAN_FORME><COD_FORME_MED>4147</COD_FORME_MED><NOM_FRAN_TENR>5 mg/ 100 mL</NOM_FRAN_TENR><COD_TENR_MED>97869</COD_TENR_MED><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>CV155</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la prévention de l'accident vasculaire cérébral et de l'événement embolique systémique chez les personnes qui présentent de la fibrillation auriculaire non valvulaire nécessitant une anticoagulothérapie.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>edoxaban</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48157</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>CV155</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la prévention de l'accident vasculaire cérébral et de l'événement embolique systémique chez les personnes qui présentent de la fibrillation auriculaire non valvulaire nécessitant une anticoagulothérapie.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dabigatran etexilate</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47802</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN156</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
-
-Pour le traitement d’appoint des personnes atteintes d’épilepsie focale réfractaire, c’est-à-dire à la suite de l’échec de deux médicaments anticrises appropriés et tolérés (utilisés soit en monothérapie ou en combinaison).
-
- 
-
-
- 
-
-Il est à noter que le brivaracétam n'est pas autorisé s'il est administré en concomitance avec le lévétiracétam.
-
-
- 
-
-Note : L'intolérance ou la contre-indication à deux médicaments anticrises ne satisfait pas à l'indication de paiement.
-
-
- 
-
- 
-
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>lacosamide</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47847</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN156</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>denosumab</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47842</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution injectable S.C. (seringue)</NOM_FRAN_FORME><COD_FORME_MED>5618</COD_FORME_MED><NOM_FRAN_TENR>60 mg/mL</NOM_FRAN_TENR><COD_TENR_MED>38430</COD_TENR_MED><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>MS154</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
+ Pour le traitement de la maladie de Paget.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>zolédronique (acide)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47386</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution pour Perfusion I.V.</NOM_FRAN_FORME><COD_FORME_MED>4147</COD_FORME_MED><NOM_FRAN_TENR>5 mg/ 100 mL</NOM_FRAN_TENR><COD_TENR_MED>97869</COD_TENR_MED><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>CV155</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la prévention de l'accident vasculaire cérébral et de l'événement embolique systémique chez les personnes qui présentent de la fibrillation auriculaire non valvulaire nécessitant une anticoagulothérapie.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>dabigatran etexilate</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47802</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>CV155</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la prévention de l'accident vasculaire cérébral et de l'événement embolique systémique chez les personnes qui présentent de la fibrillation auriculaire non valvulaire nécessitant une anticoagulothérapie.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>edoxaban</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48157</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN156</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
 
 Pour le traitement d’appoint des personnes atteintes d’épilepsie focale réfractaire, c’est-à-dire à la suite de l’échec de deux médicaments anticrises appropriés et tolérés (utilisés soit en monothérapie ou en combinaison).
 
@@ -853,6 +832,27 @@ Note : L'intolérance ou la contre-indication à deux médicaments anticrises ne
  
 
 </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>pérampanel</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47957</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2023-12-13</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN156</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
+
+Pour le traitement d’appoint des personnes atteintes d’épilepsie focale réfractaire, c’est-à-dire à la suite de l’échec de deux médicaments anticrises appropriés et tolérés (utilisés soit en monothérapie ou en combinaison).
+
+ 
+
+
+ 
+
+Il est à noter que le brivaracétam n'est pas autorisé s'il est administré en concomitance avec le lévétiracétam.
+
+
+ 
+
+Note : L'intolérance ou la contre-indication à deux médicaments anticrises ne satisfait pas à l'indication de paiement.
+
+
+ 
+
+ 
+
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>lacosamide</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47847</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>SN156</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
 
 Pour le traitement d’appoint des personnes atteintes d’épilepsie focale réfractaire, c’est-à-dire à la suite de l’échec de deux médicaments anticrises appropriés et tolérés (utilisés soit en monothérapie ou en combinaison).
 
@@ -919,7 +919,7 @@ Note : L'intolérance ou la contre-indication à deux médicaments anticrises ne
 
  
 
- Période d'autorisation : 60 jours</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>collagénase</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>38444</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA159</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes souffrant d’une déficience en vitamine B12;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>cyanocobalamine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>2275</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution Orale</NOM_FRAN_FORME><COD_FORME_MED>2262</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2020-03-18</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA159</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes souffrant d’une déficience en vitamine B12;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>cyanocobalamine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>2275</COD_DENOM_COMNE><NOM_FRAN_FORME>Comprimé Longue Action</NOM_FRAN_FORME><COD_FORME_MED>435</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2020-03-18</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>AI160</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la poursuite du traitement des infections prouvées ou présumées à staphylocoques résistants à la méthicilline amorcé par voie intraveineuse en milieu hospitalier.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>linezolide</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47410</COD_DENOM_COMNE><NOM_FRAN_FORME>Comprimé</NOM_FRAN_FORME><COD_FORME_MED>203</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>CV161</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la prévention des manifestations vasculaires ischémiques, en association avec l’acide acétylsalicylique, chez les personnes présentant un syndrome coronarien aigu.
+ Période d'autorisation : 60 jours</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>collagénase</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>38444</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA159</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes souffrant d’une déficience en vitamine B12;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>cyanocobalamine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>2275</COD_DENOM_COMNE><NOM_FRAN_FORME>Comprimé Longue Action</NOM_FRAN_FORME><COD_FORME_MED>435</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2020-03-18</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA159</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour les personnes souffrant d’une déficience en vitamine B12;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>cyanocobalamine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>2275</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution Orale</NOM_FRAN_FORME><COD_FORME_MED>2262</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2020-03-18</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>AI160</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la poursuite du traitement des infections prouvées ou présumées à staphylocoques résistants à la méthicilline amorcé par voie intraveineuse en milieu hospitalier.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>linezolide</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47410</COD_DENOM_COMNE><NOM_FRAN_FORME>Comprimé</NOM_FRAN_FORME><COD_FORME_MED>203</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>CV161</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la prévention des manifestations vasculaires ischémiques, en association avec l’acide acétylsalicylique, chez les personnes présentant un syndrome coronarien aigu.
 
  
 
@@ -935,7 +935,7 @@ Note : L'intolérance ou la contre-indication à deux médicaments anticrises ne
  lors d’une intolérance ayant mené à un arrêt de traitement d’au moins 2 inhibiteurs de l’HMG-CoA réductase (statine).
  
  Note : L’usage du colésévélam pour les personnes dont le risque cardiovasculaire est faible ou moyen ne correspond pas à l’indication de paiement. Dans ce cas, utilisez le service en ligne Patient et médicaments d’exception pour soumettre une demande d’autorisation de paiement dans le cadre de la mesure du patient d’exception. 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>colésévélam (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47905</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>DE164</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement de l’acné rosacée lorsqu’une préparation topique de métronidazole est inefficace, contre-indiqué ou mal tolérée;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>azélaïque (acide)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47848</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN167</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en monothérapie lorsque la metformine et une sulfonylurée sont contre-indiquées ou non tolérées;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>linagliptine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47881</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN167</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en monothérapie lorsque la metformine et une sulfonylurée sont contre-indiquées ou non tolérées;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>canagliflozine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48013</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN167</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en monothérapie lorsque la metformine et une sulfonylurée sont contre-indiquées ou non tolérées;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>empagliflozine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48062</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN167</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en monothérapie lorsque la metformine et une sulfonylurée sont contre-indiquées ou non tolérées;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>sitagliptine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47715</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN167</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en monothérapie lorsque la metformine et une sulfonylurée sont contre-indiquées ou non tolérées;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>alogliptine (benzoate d')</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48018</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA171</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des symptômes de rhinite allergique saisonnière modérée ou grave associée au pollen de graminées.
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>colésévélam (chlorhydrate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47905</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>DE164</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement de l’acné rosacée lorsqu’une préparation topique de métronidazole est inefficace, contre-indiqué ou mal tolérée;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>azélaïque (acide)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47848</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN167</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en monothérapie lorsque la metformine et une sulfonylurée sont contre-indiquées ou non tolérées;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>linagliptine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47881</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN167</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en monothérapie lorsque la metformine et une sulfonylurée sont contre-indiquées ou non tolérées;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>empagliflozine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48062</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN167</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en monothérapie lorsque la metformine et une sulfonylurée sont contre-indiquées ou non tolérées;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>sitagliptine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47715</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN167</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en monothérapie lorsque la metformine et une sulfonylurée sont contre-indiquées ou non tolérées;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>alogliptine (benzoate d')</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48018</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN167</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des personnes diabétiques de type 2 en monothérapie lorsque la metformine et une sulfonylurée sont contre-indiquées ou non tolérées;</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>canagliflozine</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48013</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>VA171</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement des symptômes de rhinite allergique saisonnière modérée ou grave associée au pollen de graminées.
 
  
 
@@ -943,54 +943,28 @@ Note : L'intolérance ou la contre-indication à deux médicaments anticrises ne
 
  
 
- Il est à noter que les extraits allergéniques de pollen de graminées ne sont pas autorisés en association avec l’immunothérapie sous-cutanée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>extrait allergénique de pollen de graminées</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47942</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE172</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la demande initiale lors du traitement d'entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez les personnes :    
+ Il est à noter que les extraits allergéniques de pollen de graminées ne sont pas autorisés en association avec l’immunothérapie sous-cutanée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>extrait allergénique de pollen de graminées</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47942</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE172</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement d'entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez des personnes :    
  
- ayant présenté au moins deux exacerbations des symptômes de la maladie dans la dernière année, en dépit de l’utilisation régulière en inhalation de deux bronchodilatateurs à longue action en association. Par exacerbation, on entend une aggravation soutenue et répétée des symptômes qui nécessite une intensification du traitement pharmacologique, comme l’ajout de corticostéroïdes oraux, une visite médicale précipitée ou une hospitalisation
+ ayant présenté au moins 2 exacerbations des symptômes de la maladie dans la dernière année, en dépit de l’utilisation régulière en inhalation de 2 bronchodilatateurs à longue action. Par exacerbation, on entend une aggravation soutenue et répétée des symptômes qui nécessite une intensification du traitement pharmacologique, comme l’ajout de corticostéroïdes oraux, une visite médicale précipitée ou une hospitalisation;
  ou
- ayant présenté au moins une exacerbation des symptômes de la maladie dans la dernière année ayant nécessité une hospitalisation, en dépit de l’utilisation régulière en inhalation de deux bronchodilatateurs à longue action en association
+ ayant présenté dans la dernière année au moins 1 exacerbation des symptômes de la maladie ayant nécessité une hospitalisation, en dépit de l’utilisation régulière en inhalation de 2 bronchodilatateurs à longue action;
  ou
- dont la maladie est associée à une composante asthmatique démontrée par des éléments définis par une histoire d’asthme ou d’atopie pendant l’enfance ou une éosinophilie sanguine élevée ou une amélioration du VEMS après bronchodilatateurs d’au moins 12 % et 200 ml. 
+ dont la maladie est associée à une composante asthmatique démontrée par une histoire d’asthme ou d’atopie pendant l’enfance ou une éosinophilie sanguine élevée ou une amélioration du volume expiratoire maximal en 1 seconde (VEMS) post-bronchodilatateur d’au moins 12 % et 200 ml.
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>formotérol dihydraté (fumarate de )/ budésonide</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47917</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2025-08-14</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE172</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement d'entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez des personnes :    
  
- 
-
-Période d’autorisation: 12 mois.
-
-
- Il est à noter que cette association (agoniste β2 à longue action et corticostéroïde inhalé) ne doit pas être utilisée en concomitance avec un agoniste β2 à longue action seul ou avec une association d'un agoniste β2 à longue action et d'un antimuscarinique à longue action.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>salmétérol (xinafoate de)/ fluticasone (propionate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47335</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE172</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la demande initiale lors du traitement d'entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez les personnes :    
- 
- ayant présenté au moins deux exacerbations des symptômes de la maladie dans la dernière année, en dépit de l’utilisation régulière en inhalation de deux bronchodilatateurs à longue action en association. Par exacerbation, on entend une aggravation soutenue et répétée des symptômes qui nécessite une intensification du traitement pharmacologique, comme l’ajout de corticostéroïdes oraux, une visite médicale précipitée ou une hospitalisation
+ ayant présenté au moins 2 exacerbations des symptômes de la maladie dans la dernière année, en dépit de l’utilisation régulière en inhalation de 2 bronchodilatateurs à longue action. Par exacerbation, on entend une aggravation soutenue et répétée des symptômes qui nécessite une intensification du traitement pharmacologique, comme l’ajout de corticostéroïdes oraux, une visite médicale précipitée ou une hospitalisation;
  ou
- ayant présenté au moins une exacerbation des symptômes de la maladie dans la dernière année ayant nécessité une hospitalisation, en dépit de l’utilisation régulière en inhalation de deux bronchodilatateurs à longue action en association
+ ayant présenté dans la dernière année au moins 1 exacerbation des symptômes de la maladie ayant nécessité une hospitalisation, en dépit de l’utilisation régulière en inhalation de 2 bronchodilatateurs à longue action;
  ou
- dont la maladie est associée à une composante asthmatique démontrée par des éléments définis par une histoire d’asthme ou d’atopie pendant l’enfance ou une éosinophilie sanguine élevée ou une amélioration du VEMS après bronchodilatateurs d’au moins 12 % et 200 ml. 
+ dont la maladie est associée à une composante asthmatique démontrée par une histoire d’asthme ou d’atopie pendant l’enfance ou une éosinophilie sanguine élevée ou une amélioration du volume expiratoire maximal en 1 seconde (VEMS) post-bronchodilatateur d’au moins 12 % et 200 ml.
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>vilantérol (trifénatate de)/fluticasone (furoate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48006</COD_DENOM_COMNE><NOM_FRAN_FORME>Poudre pour Inhalation</NOM_FRAN_FORME><COD_FORME_MED>5564</COD_FORME_MED><NOM_FRAN_TENR>25 mcg - 100 mcg/dose</NOM_FRAN_TENR><COD_TENR_MED>98207</COD_TENR_MED><DD_INDCN_THERA_MED>2025-08-14</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE172</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement d'entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez des personnes :    
  
- 
-
-Période d’autorisation: 12 mois.
-
-
- Il est à noter que cette association (agoniste β2 à longue action et corticostéroïde inhalé) ne doit pas être utilisée en concomitance avec un agoniste β2 à longue action seul ou avec une association d'un agoniste β2 à longue action et d'un antimuscarinique à longue action.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>vilantérol (trifénatate de)/fluticasone (furoate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48006</COD_DENOM_COMNE><NOM_FRAN_FORME>Poudre pour Inhalation</NOM_FRAN_FORME><COD_FORME_MED>5564</COD_FORME_MED><NOM_FRAN_TENR>25 mcg - 100 mcg/dose</NOM_FRAN_TENR><COD_TENR_MED>98207</COD_TENR_MED><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE172</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la demande initiale lors du traitement d'entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez les personnes :    
- 
- ayant présenté au moins deux exacerbations des symptômes de la maladie dans la dernière année, en dépit de l’utilisation régulière en inhalation de deux bronchodilatateurs à longue action en association. Par exacerbation, on entend une aggravation soutenue et répétée des symptômes qui nécessite une intensification du traitement pharmacologique, comme l’ajout de corticostéroïdes oraux, une visite médicale précipitée ou une hospitalisation
+ ayant présenté au moins 2 exacerbations des symptômes de la maladie dans la dernière année, en dépit de l’utilisation régulière en inhalation de 2 bronchodilatateurs à longue action. Par exacerbation, on entend une aggravation soutenue et répétée des symptômes qui nécessite une intensification du traitement pharmacologique, comme l’ajout de corticostéroïdes oraux, une visite médicale précipitée ou une hospitalisation;
  ou
- ayant présenté au moins une exacerbation des symptômes de la maladie dans la dernière année ayant nécessité une hospitalisation, en dépit de l’utilisation régulière en inhalation de deux bronchodilatateurs à longue action en association
+ ayant présenté dans la dernière année au moins 1 exacerbation des symptômes de la maladie ayant nécessité une hospitalisation, en dépit de l’utilisation régulière en inhalation de 2 bronchodilatateurs à longue action;
  ou
- dont la maladie est associée à une composante asthmatique démontrée par des éléments définis par une histoire d’asthme ou d’atopie pendant l’enfance ou une éosinophilie sanguine élevée ou une amélioration du VEMS après bronchodilatateurs d’au moins 12 % et 200 ml. 
- 
- 
-
-Période d’autorisation: 12 mois.
-
-
- Il est à noter que cette association (agoniste β2 à longue action et corticostéroïde inhalé) ne doit pas être utilisée en concomitance avec un agoniste β2 à longue action seul ou avec une association d'un agoniste β2 à longue action et d'un antimuscarinique à longue action.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>formotérol dihydraté (fumarate de )/ budésonide</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47917</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE173</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la poursuite de traitement d’entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez les personnes:
-
- 
- ayant obtenu le traitement en raison d’exacerbations. L’autorisation pourra être accordée si le médecin considère que les bénéfices escomptés surpassent les risques encourus.
- ou
- ayant obtenu le traitement en raison d’une composante asthmatique. Le médecin devra fournir la preuve d’une amélioration des symptômes de la maladie.
- 
- Il est à noter que cette association (agoniste ß2 à longue action et corticostéroïde inhalé) ne doit pas être utilisée en concomitance avec un agoniste ß2 à longue action seul ou avec une association d'un agoniste ß2 à longue action et d'un antimuscarinique à longue action. 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>salmétérol (xinafoate de)/ fluticasone (propionate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47335</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE173</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la poursuite de traitement d’entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez les personnes:
+ dont la maladie est associée à une composante asthmatique démontrée par une histoire d’asthme ou d’atopie pendant l’enfance ou une éosinophilie sanguine élevée ou une amélioration du volume expiratoire maximal en 1 seconde (VEMS) post-bronchodilatateur d’au moins 12 % et 200 ml.
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>salmétérol (xinafoate de)/ fluticasone (propionate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47335</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2025-08-14</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE173</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la poursuite de traitement d’entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez les personnes:
 
  
  ayant obtenu le traitement en raison d’exacerbations. L’autorisation pourra être accordée si le médecin considère que les bénéfices escomptés surpassent les risques encourus.
@@ -1006,31 +980,18 @@ Période d’autorisation: 12 mois.
  ayant obtenu le traitement en raison d’une composante asthmatique. Le médecin devra fournir la preuve d’une amélioration des symptômes de la maladie.
  
  Il est à noter que cette association (agoniste ß2 à longue action et corticostéroïde inhalé) ne doit pas être utilisée en concomitance avec un agoniste ß2 à longue action seul ou avec une association d'un agoniste ß2 à longue action et d'un antimuscarinique à longue action. 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>formotérol dihydraté (fumarate de )/ budésonide</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47917</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>gonadotrophines</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47809</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine bêta</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47810</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine delta</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48218</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>gonadotrophine chorionique</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>4316</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>progestérone</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>8151</COD_DENOM_COMNE><NOM_FRAN_FORME>Comprimé Vaginal Effervescent</NOM_FRAN_FORME><COD_FORME_MED>5683</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>progestérone</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>8151</COD_DENOM_COMNE><NOM_FRAN_FORME>Gel vaginal (Applicateur)</NOM_FRAN_FORME><COD_FORME_MED>5684</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine alpha</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47508</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>choriogonadotropine alpha</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47811</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>gonadotrophine chorionique</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>4316</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine alpha</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47508</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>choriogonadotropine alpha</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47811</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>gonadotrophines</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47809</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine bêta</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47810</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine delta</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48218</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE176</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la demande initiale du traitement d’entretien des personnes atteintes de maladie pulmonaire obstructive chronique (MPOC) chez qui l’usage d’un bronchodilatateur à longue action depuis au moins 3 mois n’a pas permis un bon contrôle des symptômes de la maladie.
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>formotérol dihydraté (fumarate de )/ budésonide</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47917</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE173</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la poursuite de traitement d’entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez les personnes:
 
  
-
- L’autorisation initiale est pour une durée maximale de 6 mois.
-
+ ayant obtenu le traitement en raison d’exacerbations. L’autorisation pourra être accordée si le médecin considère que les bénéfices escomptés surpassent les risques encourus.
+ ou
+ ayant obtenu le traitement en raison d’une composante asthmatique. Le médecin devra fournir la preuve d’une amélioration des symptômes de la maladie.
  
-
- Il est à noter que cette association (agoniste ß2 à longue action et antimuscarinique à longue action) ne doit pas être utilisée en concomitance avec un bronchodilatateur à longue action (agoniste ß2 à longue action ou antimuscarinique à longue action) seul ou en association avec un corticostéroïde inhalé.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>vilantérol (trifénatate de)/uméclidinium (bromure d')</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48029</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE176</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la demande initiale du traitement d’entretien des personnes atteintes de maladie pulmonaire obstructive chronique (MPOC) chez qui l’usage d’un bronchodilatateur à longue action depuis au moins 3 mois n’a pas permis un bon contrôle des symptômes de la maladie.
-
- 
-
- L’autorisation initiale est pour une durée maximale de 6 mois.
-
- 
-
- Il est à noter que cette association (agoniste ß2 à longue action et antimuscarinique à longue action) ne doit pas être utilisée en concomitance avec un bronchodilatateur à longue action (agoniste ß2 à longue action ou antimuscarinique à longue action) seul ou en association avec un corticostéroïde inhalé.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>indacatérol (maléate d')/ glycopyrronium (bromure de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48033</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE176</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la demande initiale du traitement d’entretien des personnes atteintes de maladie pulmonaire obstructive chronique (MPOC) chez qui l’usage d’un bronchodilatateur à longue action depuis au moins 3 mois n’a pas permis un bon contrôle des symptômes de la maladie.
-
- 
-
- L’autorisation initiale est pour une durée maximale de 6 mois.
-
- 
-
- Il est à noter que cette association (agoniste ß2 à longue action et antimuscarinique à longue action) ne doit pas être utilisée en concomitance avec un bronchodilatateur à longue action (agoniste ß2 à longue action ou antimuscarinique à longue action) seul ou en association avec un corticostéroïde inhalé.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>olodatérol (chlorhydrate d')/tiotropium (bromure monohydraté de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48064</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE177</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la poursuite de traitement d’entretien des personnes atteintes de maladie pulmonaire obstructive chronique (MPOC):
+ Il est à noter que cette association (agoniste ß2 à longue action et corticostéroïde inhalé) ne doit pas être utilisée en concomitance avec un agoniste ß2 à longue action seul ou avec une association d'un agoniste ß2 à longue action et d'un antimuscarinique à longue action. 
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>salmétérol (xinafoate de)/ fluticasone (propionate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47335</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>gonadotrophine chorionique</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>4316</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine delta</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48218</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine bêta</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47810</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>progestérone</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>8151</COD_DENOM_COMNE><NOM_FRAN_FORME>Comprimé Vaginal Effervescent</NOM_FRAN_FORME><COD_FORME_MED>5683</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>progestérone</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>8151</COD_DENOM_COMNE><NOM_FRAN_FORME>Gel vaginal (Applicateur)</NOM_FRAN_FORME><COD_FORME_MED>5684</COD_FORME_MED><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine alpha</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47508</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>choriogonadotropine alpha</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47811</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY174</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre d’une activité de procréation assistée.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>gonadotrophines</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47809</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine bêta</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47810</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>gonadotrophines</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47809</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>gonadotrophine chorionique</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>4316</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>choriogonadotropine alpha</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47811</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine alpha</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47508</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GY175</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Chez la femme, dans le cadre de services requis à des fins de préservation de la fertilité avant tout traitement gonadotoxique comportant un risque sérieux d'entrainer des mutations génétiques aux gamètes ou l’infertilité permanente, ou avant l’exérèse radicale des ovaires. </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>follitropine delta</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48218</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-11-10</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE176</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement d’entretien des personnes atteintes de maladie pulmonaire obstructive chronique (MPOC) chez qui l’usage d’un bronchodilatateur à longue action depuis au moins 3 mois n’a pas induit un bon contrôle des symptômes de la maladie.
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>indacatérol (maléate d')/ glycopyrronium (bromure de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48033</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2025-08-14</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE176</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement d’entretien des personnes atteintes de maladie pulmonaire obstructive chronique (MPOC) chez qui l’usage d’un bronchodilatateur à longue action depuis au moins 3 mois n’a pas induit un bon contrôle des symptômes de la maladie.
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>vilantérol (trifénatate de)/uméclidinium (bromure d')</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48029</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2025-08-14</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE176</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement d’entretien des personnes atteintes de maladie pulmonaire obstructive chronique (MPOC) chez qui l’usage d’un bronchodilatateur à longue action depuis au moins 3 mois n’a pas induit un bon contrôle des symptômes de la maladie.
+</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>olodatérol (chlorhydrate d')/tiotropium (bromure monohydraté de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48064</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2025-08-14</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE177</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la poursuite de traitement d’entretien des personnes atteintes de maladie pulmonaire obstructive chronique (MPOC):
 
  
  n’ayant pas obtenu un bon contrôle des symptômes de la maladie malgré l’usage d’un bronchodilatateur à longue action pendant au moins 3 mois ;
@@ -1046,7 +1007,7 @@ Période d’autorisation: 12 mois.
  dont le médecin peut fournir la preuve d’un effet clinique bénéfique.
  
  Il est à noter que cette association (agoniste ß2 à longue action et antimuscarinique à longue action) ne doit pas être utilisée en concomitance avec un bronchodilatateur à longue action (agoniste ß2 à longue action ou antimuscarinique à longue action) seul ou en association avec un corticostéroïde inhalé. 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>indacatérol (maléate d')/ glycopyrronium (bromure de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48033</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE177</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la poursuite de traitement d’entretien des personnes atteintes de maladie pulmonaire obstructive chronique (MPOC):
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>olodatérol (chlorhydrate d')/tiotropium (bromure monohydraté de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48064</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE177</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la poursuite de traitement d’entretien des personnes atteintes de maladie pulmonaire obstructive chronique (MPOC):
 
  
  n’ayant pas obtenu un bon contrôle des symptômes de la maladie malgré l’usage d’un bronchodilatateur à longue action pendant au moins 3 mois ;
@@ -1054,7 +1015,7 @@ Période d’autorisation: 12 mois.
  dont le médecin peut fournir la preuve d’un effet clinique bénéfique.
  
  Il est à noter que cette association (agoniste ß2 à longue action et antimuscarinique à longue action) ne doit pas être utilisée en concomitance avec un bronchodilatateur à longue action (agoniste ß2 à longue action ou antimuscarinique à longue action) seul ou en association avec un corticostéroïde inhalé. 
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>olodatérol (chlorhydrate d')/tiotropium (bromure monohydraté de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48064</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GU178</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement de l'hyperactivité vésicale pour les personnes chez qui au moins un des antimuscariniques, inscrits dans la section régulière de la liste, est mal toléré, contre-indiqué ou inefficace.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>fésotérodine (fumarate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47935</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GU178</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement de l'hyperactivité vésicale pour les personnes chez qui au moins un des antimuscariniques, inscrits dans la section régulière de la liste, est mal toléré, contre-indiqué ou inefficace.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>mirabegron</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47955</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GU178</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement de l'hyperactivité vésicale pour les personnes chez qui au moins un des antimuscariniques, inscrits dans la section régulière de la liste, est mal toléré, contre-indiqué ou inefficace.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>trospium (chlorure de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47610</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN179</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement du diabète de type 2, en association avec un ou plusieurs agents antidiabétiques, chez les personnes ayant des antécédents de maladie cardiaque athérosclérotique (MCAS) ou de maladie vasculaire athérosclérotique (MVAS) et dont l’hémoglobine glyquée (HbA1c) est ≥ 7 %. 
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>indacatérol (maléate d')/ glycopyrronium (bromure de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48033</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GU178</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement de l'hyperactivité vésicale pour les personnes chez qui au moins un des antimuscariniques, inscrits dans la section régulière de la liste, est mal toléré, contre-indiqué ou inefficace.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>fésotérodine (fumarate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47935</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GU178</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement de l'hyperactivité vésicale pour les personnes chez qui au moins un des antimuscariniques, inscrits dans la section régulière de la liste, est mal toléré, contre-indiqué ou inefficace.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>mirabegron</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47955</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>GU178</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement de l'hyperactivité vésicale pour les personnes chez qui au moins un des antimuscariniques, inscrits dans la section régulière de la liste, est mal toléré, contre-indiqué ou inefficace.</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>trospium (chlorure de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47610</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-01-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>EN179</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement du diabète de type 2, en association avec un ou plusieurs agents antidiabétiques, chez les personnes ayant des antécédents de maladie cardiaque athérosclérotique (MCAS) ou de maladie vasculaire athérosclérotique (MVAS) et dont l’hémoglobine glyquée (HbA1c) est ≥ 7 %. 
 
  
 
@@ -1132,71 +1093,31 @@ Note : Pour poursuivre le traitement au-delà de 12 mois, utilisez le service e
  
  </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>zolédronique (acide)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47386</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution pour Perfusion I.V.</NOM_FRAN_FORME><COD_FORME_MED>4147</COD_FORME_MED><NOM_FRAN_TENR>4 mg/5 mL</NOM_FRAN_TENR><COD_TENR_MED>18117</COD_TENR_MED><DD_INDCN_THERA_MED>2021-06-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>MS380</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
  Pour la prévention des événements osseux chez les personnes présentant une tumeur solide avec au moins une métastase osseuse, ou un myélome multiple avec lésions osseuses.
- </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>zolédronique (acide)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47386</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution pour Perfusion I.V.</NOM_FRAN_FORME><COD_FORME_MED>4147</COD_FORME_MED><NOM_FRAN_TENR>4 mg/5 mL</NOM_FRAN_TENR><COD_TENR_MED>18117</COD_TENR_MED><DD_INDCN_THERA_MED>2021-06-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE384</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la demande initiale lors du traitement d’entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez des personnes :
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>zolédronique (acide)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>47386</COD_DENOM_COMNE><NOM_FRAN_FORME>Solution pour Perfusion I.V.</NOM_FRAN_FORME><COD_FORME_MED>4147</COD_FORME_MED><NOM_FRAN_TENR>4 mg/5 mL</NOM_FRAN_TENR><COD_TENR_MED>18117</COD_TENR_MED><DD_INDCN_THERA_MED>2021-06-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE384</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement d’entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez des personnes :
  
- ayant présenté au moins deux exacerbations des symptômes de la maladie dans la dernière année, en dépit de l’utilisation régulière en inhalation de deux bronchodilatateurs à longue action en association. Par exacerbation, on entend une aggravation soutenue et répétée des symptômes qui nécessite une intensification du traitement pharmacologique, comme l’ajout de corticostéroïdes oraux, une visite médicale précipitée ou une hospitalisation;
- 
+ ayant présenté au moins 2 exacerbations des symptômes de la maladie dans la dernière année, en dépit de l’utilisation régulière en inhalation de 2 bronchodilatateurs à longue action. Par exacerbation, on entend une aggravation soutenue et répétée des symptômes qui nécessite une intensification du traitement pharmacologique, comme l’ajout de corticostéroïdes oraux, une visite médicale précipitée ou une hospitalisation; 
+
  ou
- ayant présenté au moins une exacerbation des symptômes de la maladie dans la dernière année ayant nécessité une hospitalisation, en dépit de l’utilisation régulière en inhalation de deux bronchodilatateurs à longue action en association;
- 
+ ayant présenté dans la dernière année au moins 1 exacerbation des symptômes de la maladie ayant nécessité une hospitalisation, en dépit de l’utilisation régulière en inhalation de 2 bronchodilatateurs à longue action; 
+
  ou
- dont la maladie est associée à une composante asthmatique démontrée par des éléments définis par une histoire d’asthme ou d’atopie pendant l’enfance ou une éosinophilie sanguine élevée ou une amélioration du VEMS après bronchodilatateurs d’au moins 12 % et 200 ml et dont les symptômes ne sont pas bien contrôlés avec une association d’un agoniste ß2 à longue action et d’un corticostéroïde en inhalation;
- 
+ dont la maladie est associée à une composante asthmatique démontrée par une histoire d’asthme ou d’atopie pendant l’enfance ou une éosinophilie sanguine élevée ou une amélioration du volume expiratoire maximal en 1 seconde (VEMS) post-bronchodilatateur d’au moins 12 % et 200 ml et dont les symptômes ne sont pas bien contrôlés par un agoniste β2 à longue action et 1 corticostéroïde en inhalation utilisés régulièrement; 
+
  ou
- qui reçoivent déjà un agoniste ß2 à longue action, un antimuscarinique à longue action ainsi qu’un corticostéroïde en inhalation depuis un an ou moins. 
+ qui reçoivent déjà un agoniste β2 à longue action, un antimuscarinique à longue action et 1 corticostéroïde en inhalation.
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>formotérol dihydraté (fumarate de )/ budésonide/glycopyrronium (bromure de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>128</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2025-08-14</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE384</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour le traitement d’entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez des personnes :
  
- 
+ ayant présenté au moins 2 exacerbations des symptômes de la maladie dans la dernière année, en dépit de l’utilisation régulière en inhalation de 2 bronchodilatateurs à longue action. Par exacerbation, on entend une aggravation soutenue et répétée des symptômes qui nécessite une intensification du traitement pharmacologique, comme l’ajout de corticostéroïdes oraux, une visite médicale précipitée ou une hospitalisation; 
 
-Période d’autorisation : 12 mois.
-
-
- 
-
-Les autorisations pour le vilantérol (trifénatate de)/uméclidinium (bromure d')/fluticasone (furoate de) sont données à raison d’une dose maximale quotidienne de 100 mcg de furoate de fluticasone.
-
-
- 
-
-Les autorisations pour le formotérol dihydraté (fumarate de)/budésonide/glycopyrronium (bromure de) sont données à raison de deux doses maximales quotidiennes de 364 mcg de budésonide.
-
-
- 
-
-Il est à noter que la triple thérapie dans un seul dispositif permet de remplacer l’utilisation concomitante d’un agoniste ß2 à longue action, d’un antimuscarinique à longue action et d’un corticostéroïde inhalé.
-
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>formotérol dihydraté (fumarate de )/ budésonide/glycopyrronium (bromure de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>128</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2022-09-28</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE384</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>Pour la demande initiale lors du traitement d’entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez des personnes :
- 
- ayant présenté au moins deux exacerbations des symptômes de la maladie dans la dernière année, en dépit de l’utilisation régulière en inhalation de deux bronchodilatateurs à longue action en association. Par exacerbation, on entend une aggravation soutenue et répétée des symptômes qui nécessite une intensification du traitement pharmacologique, comme l’ajout de corticostéroïdes oraux, une visite médicale précipitée ou une hospitalisation;
- 
  ou
- ayant présenté au moins une exacerbation des symptômes de la maladie dans la dernière année ayant nécessité une hospitalisation, en dépit de l’utilisation régulière en inhalation de deux bronchodilatateurs à longue action en association;
- 
+ ayant présenté dans la dernière année au moins 1 exacerbation des symptômes de la maladie ayant nécessité une hospitalisation, en dépit de l’utilisation régulière en inhalation de 2 bronchodilatateurs à longue action; 
+
  ou
- dont la maladie est associée à une composante asthmatique démontrée par des éléments définis par une histoire d’asthme ou d’atopie pendant l’enfance ou une éosinophilie sanguine élevée ou une amélioration du VEMS après bronchodilatateurs d’au moins 12 % et 200 ml et dont les symptômes ne sont pas bien contrôlés avec une association d’un agoniste ß2 à longue action et d’un corticostéroïde en inhalation;
- 
+ dont la maladie est associée à une composante asthmatique démontrée par une histoire d’asthme ou d’atopie pendant l’enfance ou une éosinophilie sanguine élevée ou une amélioration du volume expiratoire maximal en 1 seconde (VEMS) post-bronchodilatateur d’au moins 12 % et 200 ml et dont les symptômes ne sont pas bien contrôlés par un agoniste β2 à longue action et 1 corticostéroïde en inhalation utilisés régulièrement; 
+
  ou
- qui reçoivent déjà un agoniste ß2 à longue action, un antimuscarinique à longue action ainsi qu’un corticostéroïde en inhalation depuis un an ou moins. 
- 
- 
-
-Période d’autorisation : 12 mois.
-
-
- 
-
-Les autorisations pour le vilantérol (trifénatate de)/uméclidinium (bromure d')/fluticasone (furoate de) sont données à raison d’une dose maximale quotidienne de 100 mcg de furoate de fluticasone.
-
-
- 
-
-Les autorisations pour le formotérol dihydraté (fumarate de)/budésonide/glycopyrronium (bromure de) sont données à raison de deux doses maximales quotidiennes de 364 mcg de budésonide.
-
-
- 
-
-Il est à noter que la triple thérapie dans un seul dispositif permet de remplacer l’utilisation concomitante d’un agoniste ß2 à longue action, d’un antimuscarinique à longue action et d’un corticostéroïde inhalé.
-
-</DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>vilantérol (trifénatate de) / uméclidinium (bromure d') / fluticasone (furoate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48224</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2021-06-25</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE385</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
+ qui reçoivent déjà un agoniste β2 à longue action, un antimuscarinique à longue action et 1 corticostéroïde en inhalation.
+ </DES_INDCN_THERA_MED_TXT><NOM_FRAN_DENOM_COMNE>vilantérol (trifénatate de) / uméclidinium (bromure d') / fluticasone (furoate de)</NOM_FRAN_DENOM_COMNE><COD_DENOM_COMNE>48224</COD_DENOM_COMNE><NOM_FRAN_FORME /><COD_FORME_MED /><NOM_FRAN_TENR /><COD_TENR_MED /><DD_INDCN_THERA_MED>2025-08-14</DD_INDCN_THERA_MED><DF_INDCN_THERA_MED /></OCC_INDCN_THERA><OCC_INDCN_THERA><COD_INDCN_RECNU_MED>RE385</COD_INDCN_RECNU_MED><DES_INDCN_THERA_MED_TXT>
 
         Pour la poursuite du traitement d’entretien de la maladie pulmonaire obstructive chronique (MPOC) modérée ou grave, chez des personnes :            
              
